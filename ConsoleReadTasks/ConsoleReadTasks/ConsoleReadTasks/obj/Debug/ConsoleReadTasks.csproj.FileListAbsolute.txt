@@ -1,0 +1,12 @@
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\bin\Debug\ConsoleReadTasks.exe.config
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\bin\Debug\ConsoleReadTasks.exe
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\bin\Debug\ConsoleReadTasks.pdb
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.csprojResolveAssemblyReference.cache
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.exe
+F:\3816EN_Chap07\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.pdb
+F:\3816EN_Chap07\SAVE2\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\bin\Debug\ConsoleReadTasks.exe.config
+F:\3816EN_Chap07\SAVE2\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.exe
+F:\3816EN_Chap07\SAVE2\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.pdb
+F:\Rewrites3_June27_2014\3816_Chap02\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\bin\Debug\ConsoleReadTasks.exe.config
+F:\Rewrites3_June27_2014\3816_Chap02\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.exe
+F:\Rewrites3_June27_2014\3816_Chap02\ConsoleReadTasks\ConsoleReadTasks\ConsoleReadTasks\obj\Debug\ConsoleReadTasks.pdb
